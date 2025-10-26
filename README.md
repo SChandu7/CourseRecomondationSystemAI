@@ -45,15 +45,28 @@
 - AR/VR classrooms  
 
 ## 🛠️ Setup  
-```bash
+``` bash
 git clone https://github.com/SChandu/ai-smart-centre.git  
 flutter pub get  
-flutter run  
-👨‍💻 Developer
+flutter run
+```
+---
+## 👨‍💻 Developer
 S. Chandrasekhar
+
 B.Tech 3rd Year – AI & ML
+
 Acharya Nagarjuna University
+
 GitHub: @SChandu7
 
-🧭 Conclusion
+## 🧭 Conclusion
 AI Smart Centre unifies learning, innovation, and collaboration — a single hub for AI enthusiasts to grow smarter together.
+
+---
+
+## Contact
+
+If you have any questions or suggestions regarding the Coffee app, feel free to contact us at kingchandus143@gmail.com 
+
+---
